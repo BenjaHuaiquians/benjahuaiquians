@@ -20,13 +20,6 @@ I am currently building hands-on practical experience in web security by solving
 
 ---
 
-### 📂 Featured Portfolio Repositories
-- **[portswigger-web-security-writeups](https://github.com/benjahuaiquians/portswigger-web-security-writeups)** — Step-by-step documentation of solved web security labs, including vulnerability analysis, payloads, and developer remediation.
-- **[appsec-python-scripts](https://github.com/benjahuaiquians/appsec-python-scripts)** — Modular Python scripts built to automate security checks and HTTP analysis.
-- **[sample-web-pentest-report](https://github.com/benjahuaiquians/sample-web-pentest-report)** — Structured vulnerability assessment report written in English following industry standards.
-
----
-
 ### 📫 Connect with Me
 - **LinkedIn:** [linkedin.com/in/benjamin-huaiquian](https://www.linkedin.com/in/benjamin-huaiquian)
 - **Location:** Chile (Open to 100% remote opportunities)
