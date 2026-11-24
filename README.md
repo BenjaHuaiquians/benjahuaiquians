@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Benjamín Huaiquian 👋
 
-<!--
-**BenjaHuaiquians/benjahuaiquians** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity Student at **Universidad Mayor** (Chile) focused on **Offensive Security**, **Web Application Testing (AppSec)**, and **Python Automation**.
 
-Here are some ideas to get you started:
+I am currently building hands-on practical experience in web security by solving labs at the **PortSwigger Web Security Academy** and developing small Python tools to automate repetitive security checks. My goal is to understand how web applications fail under the hood and translate technical vulnerabilities into clear, actionable remediation reports.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎯 Current Focus & Learning Path
+- **Web Application Security:** Exploring core vulnerabilities from the **OWASP Top 10** (starting with SQL Injection, XSS, and authentication flaws).
+- **HTTP & Traffic Analysis:** Intercepting, inspecting, and modifying HTTP/HTTPS requests using **Burp Suite**.
+- **Security Automation:** Writing clean, modular **Python** scripts for HTTP header analysis, log inspection, and basic reconnaissance tasks.
+
+---
+
+### 🛠️ Tools & Technologies
+- **Languages:** Python, SQL, Bash
+- **Security & Testing:** Burp Suite, OWASP Top 10, PortSwigger Web Security Academy
+- **Systems & Workflow:** Linux, Windows, Git & GitHub, HTTP/HTTPS
+
+---
+
+### 📂 Featured Portfolio Repositories
+- **[portswigger-web-security-writeups](https://github.com/benjahuaiquians/portswigger-web-security-writeups)** — Step-by-step documentation of solved web security labs, including vulnerability analysis, payloads, and developer remediation.
+- **[appsec-python-scripts](https://github.com/benjahuaiquians/appsec-python-scripts)** — Modular Python scripts built to automate security checks and HTTP analysis.
+- **[sample-web-pentest-report](https://github.com/benjahuaiquians/sample-web-pentest-report)** — Structured vulnerability assessment report written in English following industry standards.
+
+---
+
+### 📫 Connect with Me
+- **LinkedIn:** [linkedin.com/in/benjamin-huaiquian](https://www.linkedin.com/in/benjamin-huaiquian)
+- **Location:** Chile (Open to 100% remote opportunities)
