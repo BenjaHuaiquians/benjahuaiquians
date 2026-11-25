@@ -1,22 +1,30 @@
-# Hi there, I'm Benjamín Huaiquian 👋
+# Hi, I'm Benjamín Huaiquián 👋
 
-Cybersecurity Student at **Universidad Mayor** (Chile) focused on **Offensive Security**, **Web Application Testing (AppSec)**, and **Python Automation**.
+**Cybersecurity Student @ Universidad Mayor (Chile) | Aspiring AppSec & Web Security Intern**
 
-I am currently building hands-on practical experience in web security by solving labs at the **PortSwigger Web Security Academy** and developing small Python tools to automate repetitive security checks. My goal is to understand how web applications fail under the hood and translate technical vulnerabilities into clear, actionable remediation reports.
+I am currently building my technical foundation from the ground up in **Application Security (AppSec)**, **Web Security**, and **Python Automation**. My goal is to understand how web applications work and fail under the hood, documenting my hands-on progress step by step.
 
----
-
-### 🎯 Current Focus & Learning Path
-- **Web Application Security:** Exploring core vulnerabilities from the **OWASP Top 10** (starting with SQL Injection, XSS, and authentication flaws).
-- **HTTP & Traffic Analysis:** Intercepting, inspecting, and modifying HTTP/HTTPS requests using **Burp Suite**.
-- **Security Automation:** Writing clean, modular **Python** scripts for HTTP header analysis, log inspection, and basic reconnaissance tasks.
+- 🎓 **Education:** Técnico en Ciberseguridad — Universidad Mayor (Graduating July 2027)
+- 🎯 **Target Path:** Application Security (AppSec), Product Security & Web Pentesting
+- 📚 **Current Focus:** HTTP fundamentals, OWASP Top 10, PortSwigger Web Security Academy, and Python basics
+- 🌍 **Availability:** Open to 100% remote internship opportunities (Global / US / LATAM)
 
 ---
 
-### 🛠️ Tools & Technologies
-- **Languages:** Python, SQL, Bash
-- **Security & Testing:** Burp Suite, OWASP Top 10, PortSwigger Web Security Academy
-- **Systems & Workflow:** Linux, Windows, Git & GitHub, HTTP/HTTPS
+### 🛠️ Currently Learning & Practicing
+
+* **Web Security:** HTTP/S protocol behavior, OWASP Top 10 vulnerabilities, and PortSwigger Web Security Academy labs
+* **Scripting & Automation:** Python fundamentals (working toward basic security scripting and automation)
+* **Tools:** Burp Suite Community Edition, Git & GitHub
+
+---
+
+### 📂 Learning Log & Upcoming Repositories
+
+*(Actively building my portfolio—repositories will be published as I complete each milestone)*
+
+* **PortSwigger Academy Lab Notes** *(In Progress)* — Structured write-ups documenting my learning process across web security labs, focusing on what happened in the request and how the issue is fixed.
+* **Python Security Utilities** *(Planned)* — Introductory scripts to practice automating basic web security checks.
 
 ---
 
